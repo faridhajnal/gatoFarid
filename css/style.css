@@ -1,0 +1,32 @@
+#gato-main h1{
+	text-align: center;
+
+}
+
+#gato-main .row-fluid{
+	padding-left: 200px;
+}
+
+#gato-main .col-md-4{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border-color: red;
+	border-style: solid;
+
+
+}
+
+#gato-main .col-md-4:hover{
+	background-color: blue;
+	cursor: pointer;
+	}
+
+.rojo{
+	color:#FE2E2E;
+	
+}
+
+.verde{
+	color:#01DF74;
+	
+}
