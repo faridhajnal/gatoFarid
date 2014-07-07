@@ -35,10 +35,27 @@
 	
 }
 
-.green-background{
+.green-background, .verde-small{
 	background-color: green;
 }
 
-.red-background{
+.red-background, .rojo-small{
 	background-color: red;
+}
+
+.gato-small-main{
+
+}
+.gato-small-main .row-fluid{
+	height: 91px;
+}
+.gato-small-main .col-md-4{
+	border-color: black;
+	border-style: solid;
+	width: 91px;
+	height: 91px;
+}
+
+.sep{
+	height: 313px;
 }

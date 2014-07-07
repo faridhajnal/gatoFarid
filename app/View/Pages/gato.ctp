@@ -51,3 +51,9 @@
 			</div>
 	</div>	
 </div>
+<div id="last-game"> 
+</div>
+
+<div id="all-games">
+
+</div>
